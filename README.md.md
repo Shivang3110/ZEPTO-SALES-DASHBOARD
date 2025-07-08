@@ -27,6 +27,10 @@ The dataset used for this project simulates sales and product-level data across 
 
 ---
 
+## 📸 Pivot table Preview
+![{052F77B2-451F-4EAB-A3BD-F41CDC29BB72}](https://github.com/user-attachments/assets/63849df2-0a5f-473b-920d-db2db55be0ad)
+
+
 ## 📈 Features in the Dashboard
 
 - **Interactive Pie Charts** – Show sales distribution across stores or categories
@@ -46,12 +50,6 @@ The dataset used for this project simulates sales and product-level data across 
 - **Design Enhancements**
   - Gradient themes for charts
   - Minimalistic white-themed layout
-
----
-
-## 📸 Preview
-
-![Zepto Dashboard](dashboard-preview.png)
 
 ---
 
@@ -77,5 +75,5 @@ Zepto-Sales-Dashboard/
 
 ## 📬 Feedback
 
-Feel free to reach out if you have any feedback or suggestions for improvement. Happy analyzing! 📊
+Feel free to reach out if you have any feedback or suggestions for improvement. 📊
 
